@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2015 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">"La Paz Google IO Extended"</string>
+    <string name="diary">Mi agenda</string>
+    <string name="explore">Explorar</string>
+    <string name="social">Social</string>
+    <string name="about">Acerca de</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="map">Mapa</string>
+    <string name="share">Share</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="welcome">!Bienvenido a la aplicación de Google I/O extended!</string>
+    <string name="p0">Antes de comenzar, hay algo de información importante respecto al evento.\n¡Sólo será un minuto!</string>
+    <string name="p1">Seamos excelentes unos con otros.</string>
+    <string name="p2">Queremos que I/O extended sea una excelente experiencia para todos, sin importar la identidad y expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, origen étnico, nacionalidad, edad o religión. Trata a todos con respeto.\nParticipa reconociendo que todos merecen estar aquí y que cada uno de nosotros tiene derecho a disfrutar de nuestra experiencia sin temor al acoso, discriminación o condescendencia, ya sea contundente o mediante micro agresiones.</string>
+    <string name="p3">Si escuchas o ves algo, dilo.</string>
+    <string name="p4">El acoso no está permitido y siéntete libre de intervenir con amabilidad cuando tú u otras personas estén siendo faltadas al respeto.\nTambién, asume buena fé. La persona que te está incomodando puede no ser consciente de lo que está haciendo y te aninamos a llamar la atención amablemente sobre su comportamiento.</string>
+    <string name="p5">Además.</string>
+    <string name="p6">Comparte ideas y contruye sobre las de los demás. Todos nos beneficiamos cuando creamos juntos.</string>
+    <string name="accept">Aceptar</string>
+    <string name="reject">Rechazar</string>
+    <string name="internet_error">Es necesaria una conexión a internet.</string>
+    <string name="talks">Charlas</string>
+    <string name="more">MÁS</string>
+    <string name="title_activity_talks">Charlas y CodeLabs</string>
+    <string name="no_diary_items">No tienes charlas ni codelabs agendados</string>
+    <string name="diary_title">Mi Agenda</string>
+    <string name="social_title">Social</string>
+    <string name="main_titlee">"Google I/O extended"</string>
+    <string name="about_title">Acerca de</string>
+    <string name="title_activity_map">Mapa</string>
+    <string name="speaker">Ponente</string>
+    <string name="day_date">13 de Junio</string>
+    <string name="floor_two">Piso 1 - Entrada por M. Santa Cruz</string>
+    <string name="floor_one">Piso 1 - Entrada por la Colombia</string>
+
+</resources>
