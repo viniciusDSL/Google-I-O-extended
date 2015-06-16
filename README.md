@@ -11,7 +11,7 @@ Download from Google Play:
 ### Version
 1.2.2
 
-# Backend 
+# Web Service
   <a href="https://Parse.com">Parse</a>
 
 - X-Parse-Application-Id = eOZ0eFf8g2uJuX2xom30uzsTPXjdGc4kvBUXsG7K
