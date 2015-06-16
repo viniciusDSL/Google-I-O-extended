@@ -9,7 +9,19 @@ Download from Google Play:
 </a>
 
 ### Version
-1.2.1
+1.2.2
+
+# Backend 
+  <a href="https://Parse.com">Parse</a>
+
+- X-Parse-Application-Id = eOZ0eFf8g2uJuX2xom30uzsTPXjdGc4kvBUXsG7K
+
+- X-Parse-REST-API-Key = Qi8G0MAn090msWUuEchhKtIPzh0tPF8FlxKDRWXJ
+
+### Parse Objects
+- Talk
+- Speaker
+
 
 License
 ----
